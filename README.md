@@ -12,7 +12,7 @@ It wil discuss spacific aspects:
 
 
 
-|# of the Model |  The subject  |
+|Module:#ofRead |  title or link  |
 |:-----------------: |-------------:|
 |**Pre Work:** |Pre-Work|
   |*read01*|.[read01-HTML](https://mrabdsaif.github.io/reading-notes-201/Class01/class01-HTML.md)|
