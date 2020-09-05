@@ -12,9 +12,8 @@ It wil discuss spacific aspects:
 
 
 
-|Nuber of the Model |  The subject  |
+|# of the Model |  The subject  |
 |:-----------------: |-------------:|
-
 |**Pre Work:** |Pre-Work|
   |*read01*|Intro to HTML & JS|
 |**Module 1:** |Introduction to web Development.|
