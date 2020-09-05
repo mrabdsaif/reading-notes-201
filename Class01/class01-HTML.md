@@ -142,4 +142,4 @@ _____--------------------------------End of HTML Extra Markup -----------
 
 
 
-[read01-JS](https://github.com/mrabdsaif/reading-notes-201/blob/master/Class01/Class01-JS.md)
+.[read01-JS](https://github.com/mrabdsaif/reading-notes-201/blob/master/Class01/Class01-JS.md)
