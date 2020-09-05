@@ -15,7 +15,7 @@ It wil discuss spacific aspects:
 |# of the Model |  The subject  |
 |:-----------------: |-------------:|
 |**Pre Work:** |Pre-Work|
-  |*read01*|Intro to HTML & JS|
+  |*read01*|.[read01-HTML](https://mrabdsaif.github.io/reading-notes-201/Class01/class01-HTML.md)|
 |**Module 1:** |Introduction to web Development.|
   |*read02*| HTML text,intro to css, JS instructions|
   |*read03|HTML lists CSS boxes, JS control flow|
@@ -35,4 +35,4 @@ It wil discuss spacific aspects:
  |*read14b|What google learnd about teams|
 |**Module 4:**| Project Work.|
 
-.[read01-HTML](https://mrabdsaif.github.io/reading-notes-201/Class01/class01-HTML.md)
+
