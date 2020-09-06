@@ -15,7 +15,7 @@ It wil discuss spacific aspects:
 |Module:#ofRead |  title or link  |
 |:-----------------: |-------------:|
 |**Pre Work:** |Pre-Work|
-  |*read01*|.[Intro to HTML & JavaScript](https://mrabdsaif.github.io/reading-notes-201/Class01/class01-HTML.md)|
+  |*read01*|.[Intro to HTML & JavaScript](https://mrabdsaif.github.io/reading-notes-201/class01)|
 |**Module 1:** |Introduction to web Development.|
   |*read02*| HTML text,intro to css, JS instructions|
   |*read03|HTML lists CSS boxes, JS control flow|
