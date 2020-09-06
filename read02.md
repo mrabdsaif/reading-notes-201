@@ -4,14 +4,36 @@ We have additional and differents ways to control or to show our text in a speci
 
 we use some tags to emphsize things or to make it bold or to write the power of a number or a date ... etc.
 
+For example :
+1. Headings
+> h1, h2 , h3, h4, h5, h6.
+
+2. Paragraph 
+> We use p But between angled brackets. and the content of this para will be inside the p tag.
+
+3. Superscript & Subscrip
+> <sup> it is used to raising numbers and for dates.
+> <sub> used with foot notes or chemical formulas 
+
+
 # Intro to CSS
+
+![CSS](https://www.kullabs.com/uploads/CSS.jpg)
+
 We are goinog to cover :
-> What Css dose 
-> How Css works, and how to link it with html doc.
->  Rules and properties and Values
+1. What Css dose? 
+*It is represent the style of a web page.
+2. How Css works, and how to link it with html doc? 
+*It is working by linking CSS file to the HTML Doc*
+3. Rules and properties and Values?
+*We use selectors and properties and valuse in the css file to reflect its rules in html structure.
 
 All of us know that CSS make our pages colorful, but how!.
-Css do that using calling the elements from html using selectors and give it  properties and values.
+Css do that using selectors for the elements from html and give it  properties and values.
+
+![CSS](img.PNG)
+
+
 
 
 # Basic intro to JS
