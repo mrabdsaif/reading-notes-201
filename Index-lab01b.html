@@ -1,59 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roperlo</title>
     <style>
-        *{
-            background-color: aliceblue;
+        /* * {
+            background-color: rgba(79, 80, 80, 0.4);
+        } */
+        main {
+            background-color: none;
         }
-        nav li ul{
-            color: brown;
+
+        body #header1 {
+            text-align: center;
+            color: rgba(124, 52, 115, 0.815);
+            font: 100px "Courier New", Courier, monospace;
+            padding: 50px;
+            margin: 20px;
+        }
+
+        #classh1 {
+            color: rgb(129, 127, 125);
+            background-color: beige;
+            text-align: center;
+            font: 50px 50px "Courier New", Courier, monospace;
+        }
+
+        p {
+            display: inline-block;
+            margin: 35px;
+            padding: 10px;
+        }
+
+        main p:hover {
+            box-shadow: 3px 3px black,
+                -3px -3px black;
         }
     </style>
 </head>
-<body>
-    <header>
-        <h1> Roperlo For Car Paints</h1>
-<nav>
-    <ul>
-        <li>Home</li>
-        <li>Events</li>
-        <li>Location</li>
-        <li>Our Services
-            <ul> <li>Painting your Car</li>
-            <li>Polishing your car</li> 
-        </ul>
-        </li>
 
-    </ul>
-</nav>
+<body>
+    <header id="header1">
+        Welcome To Roperlo <br> For Cars Paints
     </header>
     <main>
-        <h2 style="color:bisque; background-color: cadetblue">The colors We Have</h2>
-        
-        <ol>
-            <li>Red</li>
-            <li>Green</li>
-            <li>Black</li>
-        </ol>
+        <h1 id="classh1">Class 1 Lab</h1>
+        <p style="color: rgb(202, 225, 230); background-color: rgba(10, 86, 109, 0.8); border: 2px solid #808080">
+            Welcome to Our Colorful World </p>
+        <p style="color: rgb(202, 225, 230); background-color: rgba(31, 40, 88, 0.8); border: 2px solid #808080">What is
+            Your Car Type?</p>
+        <p style="color: rgb(202, 225, 230); background-color: rgba(20, 60, 100, 0.8); border: 2px solid #808080">What
+            is your car Model?</p>
+        <p style="color: rgb(202, 225, 230); background-color: rgba(10, 75, 120, 0.8); border: 2px solid #808080">How
+            many services Do you need?</p>
+        <p style="color: rgb(202, 225, 230); background-color: rgba(8, 90, 130, 0.8); border: 2px solid #808080">What
+            services do you need</p>
     </main>
     <footer>
-
+        <script>
+            var greeting = '';
+            alert('Welcome to Our Colorful World');
+            var carType = prompt('What is Your Car Type? '),
+                madeIn = prompt('What is your car Model?', '2020'),
+                numberOfServ = prompt('How many services Do you need?'),
+                whatserv = prompt('What services do you need', 'Painting or polishing');
+            alert(' your car type is ' + carType);
+            console.log('What is your Car type? ' + carType);
+            alert(' your car model is ' + madeIn);
+            console.log(' what is you car model? ' + madeIn);
+            alert(' The number of services  you need is ' + numberOfServ);
+            console.log(' How many sevices do you need? ' + numberOfServ);
+            alert(' The services  you do need are/is ' + whatserv);
+            console.log(' What services do you need? ' + whatserv);
+            alert(' your car type is ' + carType + ' your car model is ' + madeIn + ' The number of services  you need is ' + numberOfServ + ' The services  you do need are/is ' + whatserv)
+        </script>
     </footer>
-    <script>
-var greeting =alert('Welcome to Our Colorful World');
-var carType = prompt('What is Your Car Type? ');
-    madeIn = prompt ('What is you car Model?', '2020');
-    numberOfServ =prompt('How many services Do you need?');
-    whatserv =prompt('What services do you need', 'Painting or polishing');
-console.log('What is your Car type? ' + carType +  ' Please go on!');
-console.log(' what is you car model? ' + madeIn + ' Please go On ');
-console.log('How many sevices do you need? ' + numberOfServ +  ' Please go on!');
-console.log('What services do you need? ' + whatserv +  ' Call Us at 0000');
-
-    </script>
-
 </body>
+
 </html>
