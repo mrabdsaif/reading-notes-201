@@ -27,3 +27,6 @@ And we can use a flowchart to paln the differents events or occasions.
 
 We need to understand some operators and how it does its work
 like the comparison operartors... etc 
+
+For more resources 
+.[Get More](https://chris.beams.io/posts/git-commit/)
