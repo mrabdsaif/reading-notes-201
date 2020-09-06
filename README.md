@@ -17,7 +17,7 @@ It wil discuss spacific aspects:
 |**Pre Work:** |Pre-Work|
   |*read01*|.[Intro to HTML & JavaScript](https://mrabdsaif.github.io/reading-notes-201/class01)|
 |**Module 1:** |Introduction to web Development.|
-  |*read02*| HTML text,intro to css, JS instructions|
+  |*read02*| .[HTML Text, CSS Introduction & Basic JS Instructions](https://mrabdsaif.github.io/reading-notes-201/class2)|
   |*read03|HTML lists CSS boxes, JS control flow|
   |*read04|HTML links CSS layout, JS functions|
   |*read05|HTML imgs CSS color & text|
