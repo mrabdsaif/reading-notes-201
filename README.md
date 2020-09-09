@@ -19,7 +19,7 @@ It wil discuss spacific aspects:
 |**Module 1:** |Introduction to web Development.
   |*read02*| .[HTML Text, CSS Introduction & Basic JS Instructions](https://mrabdsaif.github.io/reading-notes-201/read02)
   |*read03| .[HTML lists CSS boxes, JS control flow](https://mrabdsaif.github.io/reading-notes-201/read03) 
-  |*read04|HTML links CSS layout, JS functions
+  |*read04|.[HTML links CSS layout, JS functions](https://mrabdsaif.github.io/reading-notes-201/read04)
   |*read05|HTML imgs CSS color & text
 |**Module 2:** |The Dom, Domain Modeling with Object literal.
  |*read06|JS object literal, the dom
