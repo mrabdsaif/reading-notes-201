@@ -12,7 +12,7 @@ It wil discuss spacific aspects:
 
  
 
-|Module:#ofRead |  links  |
+|Module:#ofRead |  links  
 |:-----------------: |-------------:
 |**Pre Work:** |Pre-Work
   |*read01*|.[Intro to HTML & JavaScript](https://mrabdsaif.github.io/reading-notes-201/read01)
