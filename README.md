@@ -10,7 +10,7 @@ It wil discuss spacific aspects:
 
 *This course consist of four Modules And 15 reading Assignment As the following table demonstrate:*
 
-
+ 
 
 |Module:#ofRead |  links  |
 |:-----------------: |-------------:
@@ -20,7 +20,7 @@ It wil discuss spacific aspects:
   |*read02*| .[HTML Text, CSS Introduction & Basic JS Instructions](https://mrabdsaif.github.io/reading-notes-201/read02)
   |*read03| .[HTML lists CSS boxes, JS control flow](https://mrabdsaif.github.io/reading-notes-201/read03) 
   |*read04|.[HTML links CSS layout, JS functions](https://mrabdsaif.github.io/reading-notes-201/read04)
-  |*read05|HTML imgs CSS color & text
+  |*read05|.[HTML imgs CSS color & text](https://mrabdsaif.github.io/reading-notes-201/read05)
 |**Module 2:** |The Dom, Domain Modeling with Object literal.
   |*read06|JS object literal, the dom
   |*read07|HTML imTable, JS constructor function
