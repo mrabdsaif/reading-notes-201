@@ -12,16 +12,6 @@ It wil discuss spacific aspects:
 
 
 
-<<<<<<< HEAD
-Module:#ofRead |  links  |
-:-----------------: |-------------:
-**Pre Work:** |Pre-Work
-  *read01*|.[Intro to HTML & JavaScript](https://mrabdsaif.github.io/reading-notes-201/read01)
-**Module 1:** |Introduction to web Development.
-  *read02*| .[HTML Text, CSS Introduction & Basic JS Instructions](https://mrabdsaif.github.io/reading-notes-201/read02)
-  *read03| .[HTML lists CSS boxes, JS control flow](https://mrabdsaif.github.io/reading-notes-201/read03) 
- *read04|HTML links CSS layout, JS functions
-=======
 |Module:#ofRead |  links  |
 |:-----------------: |-------------:
 |**Pre Work:** |Pre-Work
@@ -30,21 +20,20 @@ Module:#ofRead |  links  |
   |*read02*| .[HTML Text, CSS Introduction & Basic JS Instructions](https://mrabdsaif.github.io/reading-notes-201/read02)
   |*read03| .[HTML lists CSS boxes, JS control flow](https://mrabdsaif.github.io/reading-notes-201/read03) 
   |*read04|.[HTML links CSS layout, JS functions](https://mrabdsaif.github.io/reading-notes-201/read04)
->>>>>>> fcbb3c16743858d7a5a8c612b3270962222e9a3b
   |*read05|HTML imgs CSS color & text
-**Module 2:** |The Dom, Domain Modeling with Object literal.
- *read06|JS object literal, the dom
- *read07|HTML imTable, JS constructor function
- *read08|more CSS layout
- *read09|forms and events
- *read10|JS Debugging
-**Module 3:** |Libraries and Local storage.
- *read11|Assorted Topics
- *read12|Docs for HTML
- *read13|local storage
- *read14a|Css transforms, transition, and animation
- *read14b|What google learnd about teams
-**Module 4:**| Project Work.
+|**Module 2:** |The Dom, Domain Modeling with Object literal.
+  |*read06|JS object literal, the dom
+  |*read07|HTML imTable, JS constructor function
+  |*read08|more CSS layout
+  |*read09|forms and events
+  |*read10|JS Debugging
+|**Module 3:** |Libraries and Local storage.
+  |*read11|Assorted Topics
+  |*read12|Docs for HTML
+  |*read13|local storage
+  |*read14a|Css transforms, transition, and animation
+  |*read14b|What google learnd about teams
+|**Module 4:**| Project Work.
 
 
 
