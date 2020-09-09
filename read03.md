@@ -67,7 +67,7 @@ Example:
             orange,
             green;]
 
-Now how to accecc an array and change its values, See this example:
+Now how to access an array and change its values, See this example:
 
 **II Create the array**
 var colors = ['white',
