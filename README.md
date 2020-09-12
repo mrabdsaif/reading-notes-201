@@ -12,8 +12,13 @@ It wil discuss spacific aspects:
 
  
 
+<<<<<<< HEAD
 |Module:#ofRead |  links  |
 |:-----------------: |-------------:|
+=======
+|Module:#ofRead |  links  
+|:-----------------: |-------------:
+>>>>>>> c8fe8f9051bbd5d7ddfe96e434fc008da687fed9
 |**Pre Work:** |Pre-Work
   |*read01*|.[Intro to HTML & JavaScript](https://mrabdsaif.github.io/reading-notes-201/read01)|
 |**Module 1:** |Introduction to web Development.|
