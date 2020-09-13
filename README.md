@@ -23,7 +23,7 @@ It wil discuss spacific aspects:
   |*read05|.[HTML imgs CSS color & text](https://mrabdsaif.github.io/reading-notes-201/read05)|
 |**Module 2:** |The Dom, Domain Modeling with Object literal.|
   |*read06|.[JS object literal, the dom](https://mrabdsaif.github.io/reading-notes-201/read06)|
-  |*read07|HTML imTable, JS constructor function|
+  |*read07|.[HTML imTable, JS constructor function](https://mrabdsaif.github.io/reading-notes-201/read07)|
   |*read08|more CSS layout|
   |*read09|forms and events|
   |*read10|JS Debugging|
