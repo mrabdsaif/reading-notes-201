@@ -24,11 +24,11 @@ It wil discuss spacific aspects:
 |**Module 2:** |The Dom, Domain Modeling with Object literal.|
   |*read06|.[JS object literal, the dom](https://mrabdsaif.github.io/reading-notes-201/read06)|
   |*read07|.[HTML imTable, JS constructor function](https://mrabdsaif.github.io/reading-notes-201/read07)|
-  |*read08|.[more CSS layout](https://mrabdsaif.github.io/reading-notes-201/read08)|
-  |*read09|.[forms and events](https://mrabdsaif.github.io/reading-notes-201/read09)|
-  |*read10|.[JS Debugging](https://mrabdsaif.github.io/reading-notes-201/read10)|
+  |*read08|more CSS layout|
+  |*read09|forms and events|
+  |*read10|JS Debugging|
 |**Module 3:** |Libraries and Local storage.|
-  |*read11|.[Assorted Topics](https://mrabdsaif.github.io/reading-notes-201/read11)|
+  |*read11|Assorted Topics|
   |*read12|Docs for HTML|
   |*read13|local storage|
   |*read14a|Css transforms, transition, and animation|

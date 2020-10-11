@@ -7,6 +7,7 @@
 Generate random numbers
 To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a Math.random() function for just this sort of occasion.
 
+
 **Summary**
 Domain modeling is the process of creating a conceptual model for a specific problem. And a domain model that's articulated well can verify and validate your understanding of that problem.
 
@@ -18,6 +19,7 @@ Here's some tips to follow when building your own domain models.
 * Create instances using the new keyword followed by a call to a constructor function.
 * Store the newly created object in a variable so you can access its properties and methods from outside.
 * Use the this variable within methods so you can access the object's properties and methods from inside.
+
 
 
 ### HTML : Tables 
