@@ -21,6 +21,7 @@ Position Concept:
 
 ***Summary:***
 
+
 - <div> elements are often used as containing elements to group together sections of a page.
 - Browser display pages in normal flow, unless you changed the position for another value.
 - float property can float the content of the container to the left or to the right, and it needs a clear property after using it avoiding to transfer the floating affect to the next elements. and we need to define the width when we use float property to see the affect.
