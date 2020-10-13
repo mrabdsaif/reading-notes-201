@@ -6,6 +6,7 @@
 - **The different tools for collecting data**
 - **New HTML5 form controls**
 
+
 *The best example for the forms on the web is probably the search box that sits right in the middle of Google's homepage.*
 
 #### Form Controls
@@ -20,6 +21,7 @@ There are several types of form controls that you can use to collect information
 #### How The Forms work 
 
 ![formswork](formswork.PNG)
+
 
 
 The structure of the forms :
