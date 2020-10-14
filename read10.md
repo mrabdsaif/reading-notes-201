@@ -26,6 +26,7 @@ We need to know that there is one global execution context and every function cr
 That is mean when a function need a variable or some statements from another functions, it stacked this task on top and make the other tasks on hold.
 
 
+
 - EXECUTION CONTEXT & HOISTING 
 There are two execution phases every time a script runs:
 1. prepare

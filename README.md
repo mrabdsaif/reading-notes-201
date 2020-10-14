@@ -26,7 +26,7 @@ It wil discuss spacific aspects:
   |*read07|.[HTML imTable, JS constructor function](https://mrabdsaif.github.io/reading-notes-201/read07)|
   |*read08|.[more CSS layout](https://mrabdsaif.github.io/reading-notes-201/read08)|
   |*read09|.[forms and events](https://mrabdsaif.github.io/reading-notes-201/read09)|
-  |*read10|JS Debugging|
+  |*read10|.[JS Debugging](https://mrabdsaif.github.io/reading-notes-201/read10)|
 |**Module 3:** |Libraries and Local storage.|
   |*read11|Assorted Topics|
   |*read12|Docs for HTML|
