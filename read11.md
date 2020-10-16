@@ -3,6 +3,7 @@
 **controlling sizes of images:**
 *It is available to control the size of your images by using some properties such as width and height, The same as when we change the size of boxes.*
 
+
 **Aligning images:**
 *Using float property with the margin property we can control the images alignments*
 
@@ -26,10 +27,11 @@ The image is repeated vertically only.
 4. no-repeat:
 The image is only shown once.
 
-5. fixed
+**background-attachment**
+1. fixed
 The background image stays in the same position on the page.
 
-6. scroll
+2. scroll
 The background image moves up and down as the user scrolls up and down the page.
 
 **background-position**
@@ -99,4 +101,5 @@ Since 2005, a number of factors have meant that fewer websites are written in Fl
 And the following figuer illustrates how to add a video into your website 
 
 ![adding video](img11.PNG)
+
 
